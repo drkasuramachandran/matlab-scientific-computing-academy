@@ -1,0 +1,23 @@
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/*.py[cod]
+.env
+.env.*
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Local environment files
+!.env.example
+!**/.env.example
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
